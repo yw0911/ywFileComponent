@@ -1,0 +1,16 @@
+PODS:
+  - ywFile (0.1.0)
+
+DEPENDENCIES:
+  - ywFile (from `../`)
+
+EXTERNAL SOURCES:
+  ywFile:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ywFile: bec1cef97904e6eefa555703364a7e2849985b21
+
+PODFILE CHECKSUM: 89b3b99aa68ce5f3d2218776831542b1e061ce29
+
+COCOAPODS: 1.10.1

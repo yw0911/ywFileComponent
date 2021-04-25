@@ -1,0 +1,6 @@
+framework module ywFile {
+  umbrella header "ywFile-umbrella.h"
+
+  export *
+  module * { export * }
+}

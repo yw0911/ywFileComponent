@@ -1,0 +1,22 @@
+{
+  "name": "ywFile",
+  "version": "0.1.0",
+  "summary": "A short description of ywFile.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yw0911/ywFile",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yw0911": "yw0911patient@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yw0911/ywFile.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ywFile/Classes/**/*"
+}
