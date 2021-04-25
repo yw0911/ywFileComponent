@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "UIColor+Hex.h"
+#import "FilesModuleBridge.h"
 
 FOUNDATION_EXPORT double ywFileVersionNumber;
 FOUNDATION_EXPORT const unsigned char ywFileVersionString[];
