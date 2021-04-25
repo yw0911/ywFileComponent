@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
     s.source_files = 'ywFile/Classes/**/**/*'
     
     s.resource_bundles = {
-        'ywFile' => ['ywFile/Assets/Source/*.xcassets', "ywFile/Assets/Source/*.xib"]
+        'ywFile' => ['ywFile/Assets/Source/*.xcassets', 'ywFile/Assets/Source/*.xib']
     }
     
     # s.public_header_files = 'Pod/Classes/**/*.h'
